@@ -9,7 +9,6 @@ Alfred workflow to run Ruby one liner on Alfred for [Alfred Powerpack](http://ww
 ![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2003.08.57.png "Copied to Clipboard")
 
 
-
 ## INSTALL
 
 1. Download from https://dl.dropboxusercontent.com/u/6998388/aruby.alfredworkflow
@@ -24,7 +23,17 @@ Alfred workflow to run Ruby one liner on Alfred for [Alfred Powerpack](http://ww
 
 * 2. You will get a one liner results in the clipboard
 
-![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2002.42.38.png "Paste it to Finder")
+![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2002.42.38.png "Copied to clipboard")
+
+
+## TIPS
+
+#### When you get a error and want to try again
+Call history by ↑ (Up Arrow) on Alfred prompt but not by pasting clipboard (It's already overwritten).
+
+![Notification Center](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.38.24.png "When error occured")
+
+![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2004.38.45.png "When error occured")
 
 
 ## CONTRIBUTION
