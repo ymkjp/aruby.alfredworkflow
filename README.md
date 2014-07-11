@@ -11,8 +11,8 @@ Alfred workflow to run Ruby one liner on Alfred for [Alfred Powerpack](http://ww
 
 ## INSTALL
 
-1. Download from https://dl.dropboxusercontent.com/u/6998388/aruby.alfredworkflow
-2. Click the downloaded file
+1. Download from https://github.com/ymkjp/aruby.alfredworkflow/blob/master/aruby.alfredworkflow?raw=true
+2. Click the downloaded file to install
 
 
 ## HOWTO USE
@@ -38,11 +38,11 @@ Call history by ↑ (Up Arrow) on Alfred prompt but not by pasting clipboard (It
 
 ## CONTRIBUTION
 
-Here's a overview: Feel free to send a pull request.
+Here's an overview: Feel free to send a pull request.
 
 ![Overview](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2003.21.26.png "So simple")
 
 
-Yep, there are no code to modify.  # It's aloso one liner as itself !
+Yep, there is no code to modify.  # It's aloso one liner as itself !
 
 
