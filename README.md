@@ -2,7 +2,7 @@ aruby (Alfred Ruby)
 ========================
 
 ## WHAT'S THIS
-Alfred workflow to run Ruby one liner on Alfred for [Alfred Powerpack](http://www.alfredapp.com/powerpack/) users
+Alfred workflow to run Ruby one liner on Alfred for [Powerpack](http://www.alfredapp.com/powerpack/) users
 
 ![Alfred prompt](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2003.08.53.png "ruby --version")
 
@@ -43,6 +43,6 @@ Here's an overview: Feel free to send a pull request.
 ![Overview](https://dl.dropboxusercontent.com/u/6998388/img/Screenshot%202014-07-11%2003.21.26.png "So simple")
 
 
-Yep, there is no code to modify.  # It's aloso one liner as itself !
+Yep, there is no code to modify.  # It's also one liner as itself !
 
 
